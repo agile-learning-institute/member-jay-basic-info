@@ -1,0 +1,17 @@
+{
+  "name": "member-jay-basic-info",
+  "version": "0.1.0",
+  "description": "Minimal Express app for member-jay-basic-info",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
+}
